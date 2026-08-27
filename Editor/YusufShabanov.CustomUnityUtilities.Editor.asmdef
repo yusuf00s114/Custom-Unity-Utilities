@@ -1,0 +1,16 @@
+{
+    "name": "YusufShabanov.CustomUnityUtilities.Editor",
+    "rootNamespace": "YusufShabanov.CustomUnityUtilities",
+    "references": [
+        "GUID:61a5181561b9d9a48bd399b08f16d3ce"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

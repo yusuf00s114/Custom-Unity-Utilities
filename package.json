@@ -1,0 +1,14 @@
+{
+  "name": "com.yusufshabanov.customunityutilities",
+  "version": "1.0.0",
+  "displayName": "Custom Unity Utilities",
+  "description": "",
+  "unity": "6.3",
+  "author": {
+    "name": "Yusuf Shabanov",
+    "email": "yusuf00s114@gmail.com"
+  },
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  }
+}
